@@ -1,0 +1,9 @@
+.n{
+    height: 100px;
+    width: 100%;
+    position:absolute;
+}
+.n > button{
+    margin: 20px;
+    right: 20px;
+}

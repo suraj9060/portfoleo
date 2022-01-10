@@ -1,0 +1,10 @@
+.f{
+   height: 50px;
+   width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
